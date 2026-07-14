@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Laravel runtime (keep vendor since panel ships with it)
+Web Panel/app/storage/logs/*.log
+Web Panel/app/storage/framework/cache/*
+Web Panel/app/storage/out.json
